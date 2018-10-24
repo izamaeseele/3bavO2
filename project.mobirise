@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3BA",
-    "currentPage": "page4.html",
+    "currentPage": "izamaeseele.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -15,8 +15,8 @@
         "mainFont": "Rubik",
         "display1Font": "NeutraText-Light",
         "display1Size": 4.25,
-        "display2Font": "NeutraText-Book",
-        "display2Size": "1.4",
+        "display2Font": "Rubik",
+        "display2Size": 3,
         "display5Font": "Rubik",
         "display5Size": 1.5,
         "display7Font": "InputMono-Light",
@@ -66,12 +66,6 @@
         "name": "InputMono-Light",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/InputMono-Light/font.ttf"
-      },
-      {
-        "css": "'NeutraText-Book'",
-        "name": "NeutraText-Book",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/NeutraText-Book/font.ttf"
       }
     ]
   },
