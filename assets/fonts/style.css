@@ -1,12 +1,12 @@
 @font-face {
-   font-family: 'NeutraText-Light';
-   src: url('NeutraText-Light/font.ttf');
-}
-@font-face {
    font-family: 'NeutraText-Book';
    src: url('NeutraText-Book/font.ttf');
 }
 @font-face {
    font-family: 'InputMono-Light';
    src: url('InputMono-Light/font.ttf');
+}
+@font-face {
+   font-family: 'NeutraText-Light';
+   src: url('NeutraText-Light/font.ttf');
 }
